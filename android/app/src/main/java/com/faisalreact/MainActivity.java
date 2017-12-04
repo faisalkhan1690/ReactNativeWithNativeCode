@@ -1,4 +1,4 @@
-package com.awesome;
+package com.faisalreact;
 
 import com.facebook.react.ReactActivity;
 

@@ -1,4 +1,4 @@
-package com.awesome;
+package com.faisalreact;
 
 import android.app.Application;
 
