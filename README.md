@@ -39,9 +39,7 @@ $ react-native inti AwesomeProject
 ~/AwesomeProject $ npm start
 ```
 And now run project in Android studio. This is it. 
-![screenshot_1512396890](https://user-images.githubusercontent.com/7554816/33559212-146a77c4-d932-11e7-9971-9d49e5266a86.png)
-
-![screenshot_1512396893](https://user-images.githubusercontent.com/7554816/33559213-14a77566-d932-11e7-91ac-16bfb0c7da31.png)
+![screenshot_1512396890](https://user-images.githubusercontent.com/7554816/33559212-146a77c4-d932-11e7-9971-9d49e5266a86.png)![screenshot_1512396893](https://user-images.githubusercontent.com/7554816/33559213-14a77566-d932-11e7-91ac-16bfb0c7da31.png)
 
 
 References 
