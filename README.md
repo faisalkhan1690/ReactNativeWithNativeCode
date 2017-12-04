@@ -9,7 +9,7 @@ Pre-requisites
 - Android Build Tools v23.0.2
 - Android studio 
 - React Native congiured system (NPM)
-- Visula code (You can use other tools also like Atom etc)
+- Visual code (You can use other tools also like Atom etc)
 
 
 Steps to connect native code with React Native code 
@@ -21,7 +21,7 @@ $ react-native inti AwesomeProject
 2. Once your the processing is done. Open project folder and you will find structure like this
 ![screenshot from 2017-12-04 20-08-05](https://user-images.githubusercontent.com/7554816/33558023-e519a394-d92e-11e7-8ff9-f7f53506d8a6.png)
 
-3. Now open this android folder in android studio and create one activity that will be your first activity of project. As of now in my project i have created one new activity FirstActivity.java and activity_first.xml layout.
+3. Now open the android folder in android studio and create one activity that will be your first activity of project. As of now in my project i have created one new activity FirstActivity.java and activity_first.xml layout.
 
 ![screenshot from 2017-12-04 20-14-57](https://user-images.githubusercontent.com/7554816/33558546-2796bc74-d930-11e7-9253-bff1f6387656.png)![screenshot from 2017-12-04 20-15-56](https://user-images.githubusercontent.com/7554816/33558547-27d01960-d930-11e7-947e-5aa63aa24980.png)
 
